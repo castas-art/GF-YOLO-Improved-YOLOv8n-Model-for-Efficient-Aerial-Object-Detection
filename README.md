@@ -149,7 +149,8 @@ python train.py --data configs/VisDrone.yaml --cfg ultralytics/cfg/models/v8.0/G
 
 ### Detection Examples on VisDrone2019
 
-![comparison](Experimental Data\comparison.png)
+
+<img src="Experimental Data\comparison.png" alt="comparison" style="zoom:50%;" />
 
 
 
@@ -157,7 +158,7 @@ python train.py --data configs/VisDrone.yaml --cfg ultralytics/cfg/models/v8.0/G
 
 
 
-![Precision-Recall](Experimental Data/BoxPR_curve.png)
+
 
 
 
