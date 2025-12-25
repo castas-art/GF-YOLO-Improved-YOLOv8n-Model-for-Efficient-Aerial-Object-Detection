@@ -132,16 +132,8 @@ hsv_v=0.4,
 
 ## 🏃‍♂️ Quick Start
 
-### Dataset Preparation
 
-```bash
-# Download VisDrone2019 dataset
-wget https://github.com/VisDrone/VisDrone-Dataset
-python tools/prepare_visdrone.py --data_path ./datasets/VisDrone2019
 
-# Download DOTA dataset (for generalization test)
-python tools/prepare_dota.py --data_path ./datasets/DOTA
-```
 
 ### Training
 
